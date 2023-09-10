@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378702267408",
+    "project_id": "multiuser-authentiction-app",
+    "storage_bucket": "multiuser-authentiction-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378702267408:android:e8b970580a0725ab383695",
+        "android_client_info": {
+          "package_name": "com.example.multiuser_authentication_appmaster1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo70wSktFLBM8_vdyozkaSqrKB4Uau5ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
